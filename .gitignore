@@ -1,0 +1,10 @@
+/__*
+
+/build
+/node_modules
+/src/assets/js/lib
+/dist
+
+/sftp-config.json
+/config.js
+/*.b
